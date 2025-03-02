@@ -1,11 +1,9 @@
-package sstack;
+/*package sstack;
 
 import javax.sound.sampled.Line;
 import java.util.*;
 public class linkedstack<E> implements Stack<E> {
     private LinkedList<E> list = new LinkedList<E>();
-    private LinkedList<E> ;
-
     public linkedstack(){}
     public int size(){ return list.size();}
     public boolean isEmpty(){
@@ -20,4 +18,4 @@ public class linkedstack<E> implements Stack<E> {
     public E top(){
         return list.getFirst();
     }
-}
+}*/
